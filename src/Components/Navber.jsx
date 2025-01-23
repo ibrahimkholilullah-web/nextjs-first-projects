@@ -1,4 +1,4 @@
-
+'use client';
 import React from 'react';
 import { LoginLink, LogoutLink } from "@kinde-oss/kinde-auth-nextjs/components";
 import { getKindeServerSession } from '@kinde-oss/kinde-auth-nextjs/server';
